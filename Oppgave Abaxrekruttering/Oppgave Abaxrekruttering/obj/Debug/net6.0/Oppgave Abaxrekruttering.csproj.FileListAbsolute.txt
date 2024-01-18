@@ -1,0 +1,14 @@
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Abaxrekruttering\Oppgave Abaxrekruttering\bin\Debug\net6.0\Oppgave Abaxrekruttering.exe
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Abaxrekruttering\Oppgave Abaxrekruttering\bin\Debug\net6.0\Oppgave Abaxrekruttering.deps.json
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Abaxrekruttering\Oppgave Abaxrekruttering\bin\Debug\net6.0\Oppgave Abaxrekruttering.runtimeconfig.json
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Abaxrekruttering\Oppgave Abaxrekruttering\bin\Debug\net6.0\Oppgave Abaxrekruttering.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Abaxrekruttering\Oppgave Abaxrekruttering\bin\Debug\net6.0\Oppgave Abaxrekruttering.pdb
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Abaxrekruttering\Oppgave Abaxrekruttering\obj\Debug\net6.0\Oppgave Abaxrekruttering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Abaxrekruttering\Oppgave Abaxrekruttering\obj\Debug\net6.0\Oppgave Abaxrekruttering.AssemblyInfoInputs.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Abaxrekruttering\Oppgave Abaxrekruttering\obj\Debug\net6.0\Oppgave Abaxrekruttering.AssemblyInfo.cs
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Abaxrekruttering\Oppgave Abaxrekruttering\obj\Debug\net6.0\Oppgave Abaxrekruttering.csproj.CoreCompileInputs.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Abaxrekruttering\Oppgave Abaxrekruttering\obj\Debug\net6.0\Oppgave Abaxrekruttering.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Abaxrekruttering\Oppgave Abaxrekruttering\obj\Debug\net6.0\refint\Oppgave Abaxrekruttering.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Abaxrekruttering\Oppgave Abaxrekruttering\obj\Debug\net6.0\Oppgave Abaxrekruttering.pdb
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Abaxrekruttering\Oppgave Abaxrekruttering\obj\Debug\net6.0\Oppgave Abaxrekruttering.genruntimeconfig.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Abaxrekruttering\Oppgave Abaxrekruttering\obj\Debug\net6.0\ref\Oppgave Abaxrekruttering.dll
